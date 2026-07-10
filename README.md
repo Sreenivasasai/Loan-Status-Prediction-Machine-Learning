@@ -1,20 +1,18 @@
-# 📊 Loan Approval Prediction using Machine Learning
+#  Loan Approval Prediction using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project aims to predict whether a loan application will be approved or not using Machine Learning algorithms. It involves data preprocessing, feature engineering, and applying multiple classification models to achieve the best performance.
 
----
 
-## 🎯 Objective
+##  Objective
 
 * To build a predictive model for loan approval
 * To compare multiple machine learning algorithms
 * To identify the most accurate and efficient model
 
----
 
-## 📂 Dataset
+##  Dataset
 
 * Contains applicant details such as:
 
@@ -26,9 +24,8 @@ This project aims to predict whether a loan application will be approved or not 
   * Credit History
 * Target Variable: **Loan Status (Approved / Not Approved)**
 
----
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -36,9 +33,8 @@ This project aims to predict whether a loan application will be approved or not 
 * Matplotlib / Seaborn
 * Scikit-learn
 
----
 
-## 🔧 Project Workflow
+##  Project Workflow
 
 ### 1. Data Preprocessing
 
@@ -61,9 +57,8 @@ The following algorithms were implemented:
 * Support Vector Machine (SVM)
 * Random Forest Classifier
 
----
 
-## 📈 Model Evaluation
+##  Model Evaluation
 
 * Compared models based on accuracy
 * Used evaluation metrics such as:
@@ -73,25 +68,22 @@ The following algorithms were implemented:
   * Recall
   * F1-Score
 
----
 
-## 🏆 Results
+##  Results
 
 * Random Forest Classifier performed best among all models *(update if different)*
 * Achieved an accuracy of **XX%** *(replace with your result)*
 
----
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Hyperparameter tuning using GridSearchCV
 * Cross-validation for better model reliability
 * Deployment using web frameworks like Streamlit or Flask
 * Use of more advanced models
 
----
 
-## 💡 Conclusion
+##  Conclusion
 
 This project demonstrates how machine learning can be used to automate loan approval predictions. Proper data preprocessing, feature selection, and model comparison play a crucial role in achieving good performance.
 
